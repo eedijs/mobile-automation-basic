@@ -22,6 +22,16 @@ public class CategoriesScreen extends BaseScreen {
     addElement("latinAmerican", "xpath", "//*[@text='Latin American']");
     addElement("nativeAmerican", "xpath", "//*[@text='Native American']");
     addElement("pacificIslandsOceania", "xpath", "//*[@text='Pacific Islands & Oceania']");
+    addElement("camerasPhoto", "xpath", "//*[@text='Cameras & Photo']");
+    addElement("camcorders", "xpath", "//*[@text='Camcorders']");
+    addElement("cameraDrones", "xpath", "//*[@text='Camera Drones']");
+    addElement("digitalCameras", "xpath", "//*[@text='Digital Cameras']");
+    addElement("filmPhotography", "xpath", "//*[@text='Film Photography']");
+    addElement("nikon", "xpath", "//*[@text='Nikon']");
+    addElement("nikonD", "xpath", "//*[@text='Nikon D']");
+    addElement("nikonD5600", "xpath", "//*[@text='Nikon D5600']");
+    addElement("limitedTimeDeals", "xpath", "//*[@text='Limited Time Deals']");
+    addElement("hotThisWeek", "xpath", "//*[@text='Hot This Week']");
   }
   // Base Methods
   @Override
