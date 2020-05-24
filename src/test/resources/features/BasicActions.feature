@@ -88,7 +88,7 @@ Feature: Basic Actions
       | Password             |
       | Legal business phone |
 
-  @WIP @HOMEWORK @IMPLEMENT_THIS
+  @HOMEWORK @IMPLEMENTED
   Scenario: Check categories - Cameras & Photo
     When I click "Stack button" 
     And  I click "Categories"
@@ -99,7 +99,7 @@ Feature: Basic Actions
       | Digital Cameras  |
       | Film Photography |
 
-  @WIP @HOMEWORK @IMPLEMENT_THIS
+  @HOMEWORK @IMPLEMENTED
   Scenario: Check available options for Nikon
     When I click "Stack button" 
     And  I click "Categories"
@@ -112,7 +112,7 @@ Feature: Basic Actions
       | Limited Time Deals |
       | Hot This Week      |
 
-  @WIP @HOMEWORK @IMPLEMENT_THIS
+  @HOMEWORK @IMPLEMENTED
   Scenario: Check languages
     When I click "Stack button"
     And  I scroll to "Settings"
